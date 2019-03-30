@@ -1,7 +1,7 @@
 #ifndef FICHIER2_H
 #define FICHIER2_H
 
-void h();
-void f();
+void g();
+voif f();
 
 #endif /* FICHIER2_H */
