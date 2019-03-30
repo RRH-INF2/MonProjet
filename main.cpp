@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-   cout << "djfhsafdsf";
+   cout << "1 from RRH-INF1" << endl;
    
    return EXIT_SUCCESS;
 }
