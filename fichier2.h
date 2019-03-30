@@ -1,6 +1,6 @@
 #ifndef FICHIER2_H
 #define FICHIER2_H
 
-void h();
+void g();
 
 #endif /* FICHIER2_H */
