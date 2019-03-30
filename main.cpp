@@ -11,7 +11,7 @@ int main() {
    cout << "Message 2 de user2" << endl;
    cout << "Message 4 de user1" << endl;
    cout << "Message 3 de user2" << endl;
-   
+   cout << "Message 4 de user2" << endl;
    return EXIT_SUCCESS;
 }
 
