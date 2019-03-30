@@ -2,6 +2,6 @@
 #define FICHIER2_H
 
 void g();
-voif f();
+void f();
 
 #endif /* FICHIER2_H */
