@@ -3,6 +3,5 @@
 
 void f();
 void g();
-void h();
 
 #endif /* FICHIER2_H */
