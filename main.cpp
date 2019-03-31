@@ -4,5 +4,6 @@
 using namespace std;
 
 int main() { 
+   cout << "Blabla" << endl;
    return EXIT_SUCCESS;
 }
