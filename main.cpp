@@ -4,9 +4,6 @@
 using namespace std;
 
 int main() {
-   cout << "Test\n";
-   cout << "Blabla" << endl;
-   cout << "sgdfhgda" << endl;
-   cout << "Bidon" << endl;
+   cout << "Envoi 1 de Stellus" << endl;
    return EXIT_SUCCESS;
 }
